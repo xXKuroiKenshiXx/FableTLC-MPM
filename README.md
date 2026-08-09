@@ -58,9 +58,6 @@ Si vas a reportar un problema o abrir un *Issue*, por favor asegúrate de inclui
 * Los valores del archivo `egomp.ini` *(⚠️ **Importante:** recuerda ocultar/censurar tus direcciones IP privadas por seguridad)*.
 * El fragmento relevante del archivo de registro (*log*).
 
-## Compatibilidad
-FableTLC-MPM está dirigido a la versión para PC de *Fable: The Lost Chapters*. El mod depende de componentes obtenidos mediante ingeniería inversa; por ese motivo, todos los jugadores deben usar la misma compilación compatible de `Fable.exe` y la misma versión del mod.
-
 ## 📝 Créditos y licencia
 Puedes modificar y redistribuir el código libremente, siempre y cuando las obras derivadas sigan siendo de código abierto bajo la misma licencia.
 Basado en el proyecto original [EgoMP](https://github.com/98thrxse/egomp) de 98thrxse. FableTLC-MPM se distribuye bajo la licencia [GPL-3.0](LICENSE).
