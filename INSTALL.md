@@ -1,8 +1,8 @@
-# Instalacion de FableTLC-MPM
+# Installation
 
-## Requisitos
+## Requirements
 
-- Fable: The Lost Chapters para PC.
+- A legitimate PC copy of Fable: The Lost Chapters.
 - Windows.
 - Dos PCs o dos instancias capaces de conectarse por red/VPN.
 - Permitir el puerto UDP/TCP configurado en `egomp.ini` segun el entorno de prueba.
@@ -18,9 +18,9 @@
 - `INSTALL.md`
 - `SHA256SUMS.txt`
 
-## Instalacion
+## Setup
 
-1. Abre la carpeta de instalacion de Fable TLC.
+1. Back up your save files, then open the Fable TLC installation folder.
 
    En Steam suele ser:
 
@@ -28,7 +28,7 @@
    C:\Program Files (x86)\Steam\steamapps\common\Fable The Lost Chapters
    ```
 
-2. Copia estos archivos junto a `Fable.exe`:
+2. Copy these files next to `Fable.exe`:
 
    ```text
    EgoMP.exe
@@ -36,7 +36,7 @@
    egomp.ini
    ```
 
-3. Edita `egomp.ini`.
+3. Edit `egomp.ini`.
 
    Para el host:
 
@@ -53,15 +53,15 @@
    hostPort=60000
    ```
 
-4. Ejecuta `EgoMP.exe`.
+4. Allow the configured port in Windows Firewall/router when required, then start `EgoMP.exe`.
 
-5. En la partida:
+5. Load into the game world before using the multiplayer hotkeys:
 
    - Host: pulsa la tecla configurada como `host`.
    - Cliente: pulsa la tecla configurada como `connect`.
    - Desconectar: pulsa la tecla configurada como `disconnect`.
 
-## Recomendacion de controles
+## Recommended controls
 
 El archivo incluido usa:
 
@@ -81,7 +81,7 @@ connect=NUMPAD2
 disconnect=NUMPAD3
 ```
 
-## Estado alpha
+## Alpha limitations
 
 Esta version sirve para pruebas tecnicas. Todavia no es una experiencia cooperativa completa:
 
@@ -91,6 +91,6 @@ Esta version sirve para pruebas tecnicas. Todavia no es una experiencia cooperat
 - No sincroniza quests ni estado persistente.
 - Puede romperse al cambiar de region o al usar versiones distintas de `Fable.exe`.
 
-## Verificacion de archivos
+## File verification
 
 Puedes comparar los hashes SHA256 con `SHA256SUMS.txt`.
