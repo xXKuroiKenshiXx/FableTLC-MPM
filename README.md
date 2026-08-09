@@ -51,13 +51,7 @@ Consulta [INSTALL.md](INSTALL.md) para ver la instalación completa y la guía d
 Se recomienda usar `NUMPAD1`, `NUMPAD2` y `NUMPAD3` como alternativas para evitar conflictos con los controles normales del juego.
 
 ## Compatibilidad
-
 FableTLC-MPM está dirigido a la versión para PC de *Fable: The Lost Chapters*. El mod depende de componentes obtenidos mediante ingeniería inversa; por ese motivo, todos los jugadores deben usar la misma compilación compatible de `Fable.exe` y la misma versión del mod.
-
-## Releases
-
-- [`v0.1.0-alpha`](docs/releases/v0.1.0-alpha.md) — versión base original: conexión, proxy remoto y actualizaciones básicas de posición/rotación.
-- Las futuras versiones documentarán exactamente sus garantías de sincronización, sin prometer características multijugador que aún no estén implementadas.
 
 ## 📝 Créditos y licencia
 Puedes modificar y redistribuir el código libremente, siempre y cuando las obras derivadas sigan siendo de código abierto bajo la misma licencia.
