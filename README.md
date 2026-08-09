@@ -59,7 +59,7 @@ FableTLC-MPM está dirigido a la versión para PC de *Fable: The Lost Chapters*.
 - [`v0.1.0-alpha`](docs/releases/v0.1.0-alpha.md) — versión base original: conexión, proxy remoto y actualizaciones básicas de posición/rotación.
 - Las futuras versiones documentarán exactamente sus garantías de sincronización, sin prometer características multijugador que aún no estén implementadas.
 
-## Créditos y licencia
+## 📝 Créditos y licencia
 Puedes modificar y redistribuir el código libremente, siempre y cuando las obras derivadas sigan siendo de código abierto bajo la misma licencia.
 Basado en el proyecto original [EgoMP](https://github.com/98thrxse/egomp) de 98thrxse. FableTLC-MPM se distribuye bajo la licencia [GPL-3.0](LICENSE).
 
