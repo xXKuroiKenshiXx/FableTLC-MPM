@@ -50,6 +50,14 @@ Consulta [INSTALL.md](INSTALL.md) para ver la instalación completa y la guía d
 
 Se recomienda usar `NUMPAD1`, `NUMPAD2` y `NUMPAD3` como alternativas para evitar conflictos con los controles normales del juego.
 
+### 🐛 Reporte de problemas (Issues)
+Si vas a reportar un problema o abrir un *Issue*, por favor asegúrate de incluir la siguiente información:
+* **Versión/hash** del ejecutable de Fable.
+* La **etiqueta de lanzamiento** (*release tag*) del mod.
+* El **tipo de red** de ambos jugadores (LAN / VPN / Internet).
+* Los valores del archivo `egomp.ini` *(⚠️ **Importante:** recuerda ocultar/censurar tus direcciones IP privadas por seguridad)*.
+* El fragmento relevante del archivo de registro (*log*).
+
 ## Compatibilidad
 FableTLC-MPM está dirigido a la versión para PC de *Fable: The Lost Chapters*. El mod depende de componentes obtenidos mediante ingeniería inversa; por ese motivo, todos los jugadores deben usar la misma compilación compatible de `Fable.exe` y la misma versión del mod.
 
