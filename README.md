@@ -20,8 +20,6 @@ FableTLC-MPM es una continuación de código abierto de la base multijugador cre
 | Movimiento y rotación básicos | Misiones, inventario y botín |
 | Configuración de red y teclas mediante INI | Hechizos, transiciones de mapa y estado del mundo |
 
-La versión original **`v0.1.0-alpha`** se conserva como la compilación base. Demuestra la conexión y el proxy remoto, pero no es todavía un mod multijugador de mundo compartido completo.
-
 ## Dirección del proyecto
 
 La arquitectura objetivo es autoritativa desde el host:
@@ -34,8 +32,8 @@ La arquitectura objetivo es autoritativa desde el host:
 ## Instalación
 
 1. Instala una copia legítima para PC de *Fable: The Lost Chapters*.
-2. Copia `EgoMP.exe`, `EgoMP.dll` y `egomp.ini` junto a `Fable.exe`.
-3. Configura la dirección del host y el puerto en `egomp.ini`.
+2. Copia FableTLC-MPM la cual contiene `EgoMP.exe`, `EgoMP.dll` y `egomp.ini` junto a `Fable.exe` que seria la carpeta raíz del juego.
+3. Configura la dirección del host y el puerto en `egomp.ini` (OPCIONAL).
 4. Ejecuta `EgoMP.exe`, entra al mundo de juego y luego crea o conéctate a una sesión.
 
 Consulta [INSTALL.md](INSTALL.md) para ver la instalación completa y la guía de solución de problemas.
