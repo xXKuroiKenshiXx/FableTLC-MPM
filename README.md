@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30867477/README.md)
 # FableTLC-MPM
 
 > Mod multijugador experimental para **Fable: The Lost Chapters**.
