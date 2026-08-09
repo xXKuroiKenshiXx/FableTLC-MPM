@@ -34,7 +34,7 @@ La arquitectura objetivo es autoritativa desde el host:
 1. Instala una copia legítima para PC de *Fable: The Lost Chapters*.
 2. Copia FableTLC-MPM la cual contiene `EgoMP.exe`, `EgoMP.dll` y `egomp.ini` junto a `Fable.exe` que seria la carpeta raíz del juego.
 3. Configura la dirección del host y el puerto en `egomp.ini` (OPCIONAL).
-4. Ejecuta `EgoMP.exe`, entra al mundo de juego y luego crea o conéctate a una sesión.
+4. Ejecuta `FableTLC-MPM-v.x.x.x.exe`, entra al mundo de juego y luego crea o conéctate a una sesión.
 
 Consulta [INSTALL.md](INSTALL.md) para ver la instalación completa y la guía de solución de problemas.
 
